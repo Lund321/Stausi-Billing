@@ -16,7 +16,7 @@ ADD COLUMN `time` int(11) NOT NULL DEFAULT unix_timestamp();
 
 ## Developing the App
 
-1. Run `pnpm dev`
+1. Run `pnpm start`
 2. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
 ## Building the App
